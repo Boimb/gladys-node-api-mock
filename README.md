@@ -1,15 +1,15 @@
-#[WIP] Gladys-node-api-mock
+# [WIP] Gladys-node-api-mock
 
 Simply mocks the Gladys API.
 See [Gladys project](https://github.com/GladysProject/Gladys)
 
 Usefull to test your modules outside of Gladys
 
-##Installation
+## Installation
 
     npm install git+https://git@github.com/Boimb/gladys-node-api-mock.git --save-dev
 
-##Usage
+## Usage
 
 You'll need [mocha](https://mochajs.org/) and [sinon](https://sinonjs.org/) too.
 
