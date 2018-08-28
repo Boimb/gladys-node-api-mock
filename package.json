@@ -1,0 +1,27 @@
+{
+  "name": "gladys-node-api-mock",
+  "version": "0.0.1",
+  "description": "Mock Gladys node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boimb/gladys-node-api-mock.git"
+  },
+  "keywords": [
+    "gladys",
+    "tests",
+    "mock"
+  ],
+  "author": "Boimb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boimb/gladys-mock/issues"
+  },
+  "homepage": "https://github.com/Boimb/gladys-node-api-mock#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
