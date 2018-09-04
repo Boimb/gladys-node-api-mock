@@ -39,7 +39,7 @@ module.exports = {
   },
 
   clearCache: () => {
-    shared.cache = {};
+    shared = [];
     return Promise.resolve();
   }
 }
